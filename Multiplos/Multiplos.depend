@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726830120 source:c:\users\isousa\documents\metodologiasdedesenvolvimentosoftwere-10789-marco_tereso\git+github\ti897\multiplos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
